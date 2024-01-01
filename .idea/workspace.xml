@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6bdcbf34-12f8-43d2-b6a5-5dd34d4ba5b4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/BlogProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/instance/posts.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/about-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/angela-profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/contact-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/default-profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/edit-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/home-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/login-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/post-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/img/register-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/make-post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2aKssa6LXU6eWLPUAlqG7Ip8mqt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/andreas.oentoro/PycharmProjects/BlogProject"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-67fca87a943a-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.259" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bdcbf34-12f8-43d2-b6a5-5dd34d4ba5b4" name="Changes" comment="" />
+      <created>1704078812280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704078812280</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
+    <option name="historyDtoById">
+      <map>
+        <entry key="a087b8">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="a087b8" />
+              <option name="initiateTms" value="1704089702031" />
+              <option name="request" value="error: remote origin already exists.&#10;" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error message &quot;remote origin already exists&quot; typically occurs when you try to add a remote repository to your local Git repository, but a remote with the same name already exists.&#10;&#10;To resolve this issue, you have a few options:&#10;&#10;1. Verify existing remotes: First, you can check the existing remotes in your repository by running the following command in your terminal:&#10;&#10;   ```&#10;   git remote -v&#10;   ```&#10;&#10;   This command will list all the remotes associated with your repository. Make sure that the remote you are trying to add doesn't already exist.&#10;&#10;2. Rename or remove existing remote: If you find that a remote with the same name already exists, you can either rename it or remove it. To rename a remote, you can use the following command:&#10;&#10;   ```&#10;   git remote rename &lt;old-name&gt; &lt;new-name&gt;&#10;   ```&#10;&#10;   Replace `&lt;old-name&gt;` with the existing remote name and `&lt;new-name&gt;` with the desired new name.&#10;&#10;   To remove a remote, you can use the following command:&#10;&#10;   ```&#10;   git remote remove &lt;remote-name&gt;&#10;   ```&#10;&#10;   Replace `&lt;remote-name&gt;` with the name of the remote you want to remove.&#10;&#10;3. Update existing remote: If you want to update the URL of an existing remote, you can use the following command:&#10;&#10;   ```&#10;   git remote set-url &lt;remote-name&gt; &lt;new-url&gt;&#10;   ```&#10;&#10;   Replace `&lt;remote-name&gt;` with the name of the existing remote and `&lt;new-url&gt;` with the new URL you want to set.&#10;&#10;Choose the appropriate option based on your requirements and the current state of your repository." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1704089709046" />
+            </ChatHistoryModel>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
